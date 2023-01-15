@@ -1,4 +1,5 @@
-## udemy-git course
-### first assignment
+## Udemy-Introduction to Git Course
+### First assignment
 
-name:jana
+Name:Jana
+Note:Good Luck
